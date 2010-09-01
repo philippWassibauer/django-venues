@@ -1,7 +1,7 @@
 from distutils.core import setup
 
 setup(name='django-venues',
-      version="0.1",
+      version="0.1.1",
       description='Venues for django',
       long_description="Venues for django",
       author='Philipp Wassibauer',
