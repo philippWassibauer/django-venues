@@ -3,7 +3,7 @@ from distutils.core import setup
 setup(name='django-venues',
       version="0.1",
       description='Venues for django',
-      long_description=open('README.rst').read(),
+      long_description="Venues for django",
       author='Philipp Wassibauer',
       author_email='phil@maptales.com',
       url='http://github.com/philippWassibauer/django-venues',
